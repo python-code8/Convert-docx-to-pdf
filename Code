@@ -2,5 +2,4 @@
 
 from docx2pdf import convert
 
-convert (r"C:\Users\Admin\Desktop\test.docx", 
-         r"C:\Users\Admin\Desktop\test.pdf")
+convert (r"C:\Users\Admin\Desktop\test.docx", r"C:\Users\Admin\Desktop\test.pdf")
